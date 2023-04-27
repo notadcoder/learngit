@@ -1,0 +1,11 @@
+1. git init (git initialise is used to make a directory a repository)
+2. cd .. (used to go back in directory)
+3. cd <path> (used to go to a folder in present directory or to a certain pa              th)
+4. touch <file> (create a file with the 'filename.extension')
+5. mkdir <folder> (make directory is used to create a new folder)
+6. rmdir <folder> (
+7. rm <file> 
+8. rm -rf <folder>
+9. mv <old> <new>
+10. ls -a/<name>
+
